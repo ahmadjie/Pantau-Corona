@@ -1,0 +1,45 @@
+.main{
+    margin: auto;
+    width: 93%;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.title{
+    padding: 7vh 0
+}
+
+.mainContent{
+    display: flex;
+    flex-direction: column;
+}
+
+.wrapperCard{
+    display: flex;
+    flex-direction: row;
+    padding: 5px;
+    width: 100%;
+}
+
+.left{
+    width: 75%;
+}
+
+.right{
+    width: 25%;
+}
+
+.select{
+    padding: 0vh 0vh 2vh 0vh;
+}
+
+.cardContent{
+    display: flex;
+    width: 100%;
+    flex-direction: row;
+}
+.loadingComponent{
+    margin-left: 10vh;
+    margin-bottom: 10px ;
+}
